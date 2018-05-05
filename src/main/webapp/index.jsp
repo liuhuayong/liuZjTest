@@ -11,7 +11,7 @@
 <link rel="stylesheet" type="text/css" href="<%=contextPath%>/css/Table.css">
 </head>
 <body>
-<p class="title">模拟商户123123123</p>
+<p class="title">测试-----模拟商户123123123</p>
 <table width="100%" cellpadding="2" cellspacing="1" border="0" align="center" bgcolor="#DDDDDD">
     <tr>
         <td class="head" height="24" colspan="2">商户订单支付（1100）</td>
